@@ -11,3 +11,7 @@
 > + router-view如何实现组件动态渲染？(涉及Vue动态组件)
 > 
 > 此代码为测试代码，文档版整理至语雀。
+
+
+#### Plugin Demo
+> 该项目还添加了有关Plugin的demo，新建了test文件夹，并在main.js中调用了 app.user(TestPlugin)

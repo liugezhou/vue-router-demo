@@ -3,6 +3,7 @@
   <router-link to='/home'>Home | </router-link>
   <router-link to='/order'>Order | </router-link>
   <router-link to='/my'>My | </router-link>
+  <test-component/>
   <router-view />
 </template>
 

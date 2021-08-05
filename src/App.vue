@@ -4,6 +4,9 @@
   <router-link to='/order'>Order | </router-link>
   <router-link to='/my'>My | </router-link>
   <test-component/>
+  <test-component2>
+      TestComponent2
+  </test-component2>
   <button @click="jump">Jump</button>
   <router-view />
 </template>

@@ -17,8 +17,10 @@ const routes = [
         path:'/order',name:'order',component:Order
     }]
 // eslint-disable-next-line no-debugger
-// debugger
+debugger
 const routerHistory = createWebHistory()
+// eslint-disable-next-line no-debugger
+// debugger
 const router = createRouter({
 	history:routerHistory,
   routes
